@@ -6,7 +6,7 @@
 // main function -
 // where the execution of program begins
 int main()
-{
+
 
 	// prints hello world
 	printf("LA bienvenida de los datos");
